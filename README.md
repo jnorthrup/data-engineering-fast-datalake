@@ -1,6 +1,6 @@
 this is a starting point for a datalake MVP on couchdb
 
-how hack box session:
+how to hack box session:
 
 first install pubkey, see me for details.
 
